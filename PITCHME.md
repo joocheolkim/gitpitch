@@ -16,4 +16,4 @@ This is another side.
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Flux Explained](https://github.com/joocheolkim/gitpitch/blob/master/IMG_0430.jpg)
