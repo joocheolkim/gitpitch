@@ -16,4 +16,4 @@ This is another side.
 
 ---
 
-![Flux Explained](https://github.com/joocheolkim/gitpitch/blob/master/IMG_0430.jpg)
+![Flux Explained](IMG_0430.jpg)
